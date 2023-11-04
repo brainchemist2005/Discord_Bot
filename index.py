@@ -1,0 +1,1 @@
+print("")[D[DI'll be a bot that takes scans articles through the ")[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Dweb and post them in a discord server")
