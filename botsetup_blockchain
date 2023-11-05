@@ -16,4 +16,4 @@ async def actualite(ctx):
 client.add_command(actualite)
 
 #ca cest la cle du bot que jai mis sur le serveur pour test 
-client.run('MTE3MDQ4ODA2MDAwNjM4MzYyNg.GMOzAb.nKEmBQO52ThAPom6bUy7t79nI7zg1KS2gj9nZE')
+client.run('')
